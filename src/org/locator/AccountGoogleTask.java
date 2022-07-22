@@ -26,9 +26,8 @@ public static void main(String[] args) {
 
 	WebElement txtpass= driver.findElement(By.xpath("//input[@type='password']"));
 	txtpass.sendKeys("aadh234");
-
 	
-	
+	System.out.println("bommiiiii");
 	
 	
 }
